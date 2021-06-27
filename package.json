@@ -6,6 +6,10 @@
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [ "dist", "README.md" ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricksmith-junkshon/styled-btn-provider-test.git"
+},
   
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
